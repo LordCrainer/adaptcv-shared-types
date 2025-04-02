@@ -1,0 +1,21 @@
+{
+  "name": "adaptcv-shared-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LordCrainer/adaptcv-shared-types.git"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": ["types", "typescript", "adaptcv", "cv"],
+  "author": "LordCrainer",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
