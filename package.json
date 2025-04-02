@@ -33,7 +33,6 @@
   "author": "LordCrainer",
   "license": "ISC",
   "devDependencies": {
-    "semantic-release": "^24.2.3",
     "typescript": "^5.4.5"
   }
 }
