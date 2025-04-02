@@ -1,21 +1,39 @@
 {
-  "name": "adaptcv-shared-types",
+  "name": "@lordcrainer/adaptcv-shared-types",
   "version": "1.0.0",
   "description": "",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "private": false,
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "type": "module",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:LordCrainer/adaptcv-shared-types.git"
   },
   "scripts": {
-    "build": "tsc -p tsconfig.json"
+    "build": "tsc -p tsconfig.json",
+    "build:w": "tsc -p tsconfig.json --watch"
   },
-  "keywords": ["types", "typescript", "adaptcv", "cv"],
+  "keywords": [
+    "types",
+    "typescript",
+    "adaptcv",
+    "cv"
+  ],
   "author": "LordCrainer",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^5.4.3"
+    "semantic-release": "^24.2.3",
+    "typescript": "^5.4.5"
   }
 }
