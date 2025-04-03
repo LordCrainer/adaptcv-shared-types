@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LordCrainer/adaptcv-shared-types.git"
+    "url": "git+ssh://git@github.com/LordCrainer/adaptcv-shared-types.git"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
