@@ -17,7 +17,7 @@ jobs:
 
       # Step 2: Set up Node.js
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '22'  # Ajusta la versión de Node.js si es necesario
           registry-url: 'https://npm.pkg.github.com/'
@@ -28,7 +28,7 @@ jobs:
 
       # Step 4: Authenticate with GitHub Packages
       - name: Authenticate with GitHub Packages
-        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.SAE_TOKEN }}" > ~/.npmrc
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
 
       # Step 5: Run semantic-release
       - name: Semantic Release
