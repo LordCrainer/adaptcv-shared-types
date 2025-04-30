@@ -1,3 +1,17 @@
+## [1.3.8](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.7...v1.3.8) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update repository URL to use HTTPS ([5646149](https://github.com/LordCrainer/adaptcv-shared-types/commit/564614910dfd36485763643a1e6c9b334fbd80f2))
+
+## [1.3.8](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.7...v1.3.8) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update repository URL to use HTTPS ([5646149](https://github.com/LordCrainer/adaptcv-shared-types/commit/564614910dfd36485763643a1e6c9b334fbd80f2))
+
 ## [1.3.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.6...v1.3.7) (2025-04-30)
 
 
