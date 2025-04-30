@@ -1,3 +1,17 @@
+## [1.3.9](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.8...v1.3.9) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update version to 1.3.9 and correct repository URL ([9322b6d](https://github.com/LordCrainer/adaptcv-shared-types/commit/9322b6d4801ab41569786bfff85594872f03afeb))
+
+## [1.3.9](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.8...v1.3.9) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update version to 1.3.9 and correct repository URL ([9322b6d](https://github.com/LordCrainer/adaptcv-shared-types/commit/9322b6d4801ab41569786bfff85594872f03afeb))
+
 ## [1.3.8](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.7...v1.3.8) (2025-04-30)
 
 
