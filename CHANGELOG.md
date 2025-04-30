@@ -1,3 +1,17 @@
+## [1.3.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.3...v1.3.4) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** rename publish script to 'pub' in package.json ([bf45537](https://github.com/LordCrainer/adaptcv-shared-types/commit/bf45537ce3555eab078ba795577f1bbd606d7b6e))
+
+## [1.3.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.3...v1.3.4) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** rename publish script to 'pub' in package.json ([bf45537](https://github.com/LordCrainer/adaptcv-shared-types/commit/bf45537ce3555eab078ba795577f1bbd606d7b6e))
+
 ## [1.3.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.2...v1.3.3) (2025-04-30)
 
 
