@@ -1,3 +1,17 @@
+## [1.3.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.5...v1.3.6) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** correct main and types paths, update license to MIT ([94eabb2](https://github.com/LordCrainer/adaptcv-shared-types/commit/94eabb29a15d935fd094e4a58a2300e18bf248a1))
+
+## [1.3.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.5...v1.3.6) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** correct main and types paths, update license to MIT ([94eabb2](https://github.com/LordCrainer/adaptcv-shared-types/commit/94eabb29a15d935fd094e4a58a2300e18bf248a1))
+
 ## [1.3.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.4...v1.3.5) (2025-04-30)
 
 
