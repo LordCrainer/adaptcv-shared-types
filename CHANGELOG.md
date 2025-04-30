@@ -1,3 +1,17 @@
+## [1.3.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.2...v1.3.3) (2025-04-30)
+
+
+### Bug Fixes
+
+* **tsconfig:** remove unused paths configuration from tsconfig.json ([9bc3f3f](https://github.com/LordCrainer/adaptcv-shared-types/commit/9bc3f3ff481c4cf99f593a1f8e786a9e0d71112e))
+
+## [1.3.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.2...v1.3.3) (2025-04-30)
+
+
+### Bug Fixes
+
+* **tsconfig:** remove unused paths configuration from tsconfig.json ([9bc3f3f](https://github.com/LordCrainer/adaptcv-shared-types/commit/9bc3f3ff481c4cf99f593a1f8e786a9e0d71112e))
+
 ## [1.3.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.1...v1.3.2) (2025-04-30)
 
 
