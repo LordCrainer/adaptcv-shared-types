@@ -1,7 +1,7 @@
 {
   "name": "@lordcrainer/adaptcv-shared-types",
   "version": "1.3.4",
-  "description": "",
+  "description": "AdaptCV shared types",
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
   "files": [
@@ -31,7 +31,7 @@
     "adaptcv",
     "cv"
   ],
-  "author": "LordCrainer",
+  "author": "LordCrainer <carlosgarcia.cagm@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
