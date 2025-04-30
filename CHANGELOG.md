@@ -1,3 +1,17 @@
+## [1.3.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.1...v1.3.2) (2025-04-30)
+
+
+### Bug Fixes
+
+* add .npmrc to .gitignore and update publish script in package.json ([970a047](https://github.com/LordCrainer/adaptcv-shared-types/commit/970a0473b2ed981616eaaf4b50fc77bd27c3755c))
+
+## [1.3.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.1...v1.3.2) (2025-04-30)
+
+
+### Bug Fixes
+
+* add .npmrc to .gitignore and update publish script in package.json ([970a047](https://github.com/LordCrainer/adaptcv-shared-types/commit/970a0473b2ed981616eaaf4b50fc77bd27c3755c))
+
 ## [1.3.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.0...v1.3.1) (2025-04-03)
 
 
