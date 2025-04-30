@@ -1,3 +1,17 @@
+## [1.3.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.6...v1.3.7) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update files path in package.json to include trailing slash ([4001083](https://github.com/LordCrainer/adaptcv-shared-types/commit/4001083c96f8549407f077a4d4f19027bce089f9))
+
+## [1.3.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.6...v1.3.7) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update files path in package.json to include trailing slash ([4001083](https://github.com/LordCrainer/adaptcv-shared-types/commit/4001083c96f8549407f077a4d4f19027bce089f9))
+
 ## [1.3.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.5...v1.3.6) (2025-04-30)
 
 
