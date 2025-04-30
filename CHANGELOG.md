@@ -1,3 +1,17 @@
+## [1.3.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.4...v1.3.5) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update description and author fields in package.json ([13b82b0](https://github.com/LordCrainer/adaptcv-shared-types/commit/13b82b01d808e970215bf36c6d01a71de126ccfa))
+
+## [1.3.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.4...v1.3.5) (2025-04-30)
+
+
+### Bug Fixes
+
+* **package:** update description and author fields in package.json ([13b82b0](https://github.com/LordCrainer/adaptcv-shared-types/commit/13b82b01d808e970215bf36c6d01a71de126ccfa))
+
 ## [1.3.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.3...v1.3.4) (2025-04-30)
 
 
