@@ -10,11 +10,8 @@
     "baseUrl": "./",
     "rootDir": "./",
     "declaration": true,
-    "paths": {
-      "@pp-shared/*": [
-        "./dist/*"
-      ]
-    }
+    "declarationMap": true,
+    "sourceMap": true
   },
   "include": [
     "src/**/*"
