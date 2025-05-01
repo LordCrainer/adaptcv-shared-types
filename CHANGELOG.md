@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.4.0...v1.5.0) (2025-05-01)
+
+
+### Features
+
+* **docs:** add local development instructions and create .nvmrc file ([f3f3a57](https://github.com/LordCrainer/adaptcv-shared-types/commit/f3f3a570dcd797b76fdcb7356ca89b32797fb5bf))
+
+# [1.5.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.4.0...v1.5.0) (2025-05-01)
+
+
+### Features
+
+* **docs:** add local development instructions and create .nvmrc file ([f3f3a57](https://github.com/LordCrainer/adaptcv-shared-types/commit/f3f3a570dcd797b76fdcb7356ca89b32797fb5bf))
+
 # [1.4.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.3.9...v1.4.0) (2025-04-30)
 
 
