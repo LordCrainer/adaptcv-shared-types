@@ -1,3 +1,17 @@
+# [1.7.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.6.0...v1.7.0) (2025-05-01)
+
+
+### Features
+
+* **types:** add LoginParams interface for user authentication ([e9adea0](https://github.com/LordCrainer/adaptcv-shared-types/commit/e9adea069cb864cad986633d57131c599241ebb0))
+
+# [1.7.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.6.0...v1.7.0) (2025-05-01)
+
+
+### Features
+
+* **types:** add LoginParams interface for user authentication ([e9adea0](https://github.com/LordCrainer/adaptcv-shared-types/commit/e9adea069cb864cad986633d57131c599241ebb0))
+
 # [1.6.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.5.0...v1.6.0) (2025-05-01)
 
 
