@@ -9,3 +9,8 @@ export interface LoginOutput {
   user: RequestUserData
   token: string
 }
+
+export interface LoginParams {
+  username: string
+  password: string
+}
