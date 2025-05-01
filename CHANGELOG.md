@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.5.0...v1.6.0) (2025-05-01)
+
+
+### Features
+
+* **docs:** update local development instructions and package.json scripts ([27e6991](https://github.com/LordCrainer/adaptcv-shared-types/commit/27e6991b4194d9a475cd16462e3ad724cffe7383))
+
+# [1.6.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.5.0...v1.6.0) (2025-05-01)
+
+
+### Features
+
+* **docs:** update local development instructions and package.json scripts ([27e6991](https://github.com/LordCrainer/adaptcv-shared-types/commit/27e6991b4194d9a475cd16462e3ad724cffe7383))
+
 # [1.5.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.4.0...v1.5.0) (2025-05-01)
 
 
