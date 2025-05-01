@@ -1,3 +1,19 @@
+# [1.8.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.7.0...v1.8.0) (2025-05-01)
+
+
+### Features
+
+* **builder:** add constants and interfaces for user profiles and work experience ([e6e12b5](https://github.com/LordCrainer/adaptcv-shared-types/commit/e6e12b529fab489d6e89cddf53de3ccc4bb02fd0))
+* **index:** export shared types and add shared module ([4d60745](https://github.com/LordCrainer/adaptcv-shared-types/commit/4d60745e8287e34f827301c335e0983f094b742c))
+
+# [1.8.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.7.0...v1.8.0) (2025-05-01)
+
+
+### Features
+
+* **builder:** add constants and interfaces for user profiles and work experience ([e6e12b5](https://github.com/LordCrainer/adaptcv-shared-types/commit/e6e12b529fab489d6e89cddf53de3ccc4bb02fd0))
+* **index:** export shared types and add shared module ([4d60745](https://github.com/LordCrainer/adaptcv-shared-types/commit/4d60745e8287e34f827301c335e0983f094b742c))
+
 # [1.7.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.6.0...v1.7.0) (2025-05-01)
 
 
