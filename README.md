@@ -33,6 +33,34 @@ const user: IUsers = {
 const role: RoleType = 'admin';
 ```
 
+Quisiera agregar un tema sobre como usarlo a nivel local con otro repo hacer un link simbólico
+
+## Local Development
+To use this package locally in another repository, you can create a symbolic link. Follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LordCrainer/adaptcv-shared-types.git
+   
+   cd adaptcv-shared-types
+    ```
+2. Create a symbolic link:
+3. ```bash
+   npm link
+   ```
+4. Navigate to your other repository:
+   ```bash
+   cd /path/to/your/other/repo
+   ```
+5. Link the shared types package:
+   ```bash
+   npm link adaptcv-shared-types
+   ```
+6. Now you can import the types in your other repository as if they were installed from npm:
+   ```typescript
+   import { IUsers, RoleType } from 'adaptcv-shared-types';
+   ```
+
+
 ## Exported Types
 
 The following types and interfaces are exported:
