@@ -42,22 +42,44 @@ To use this package locally in another repository, you can create a symbolic lin
    git clone https://github.com/LordCrainer/adaptcv-shared-types.git
    
    cd adaptcv-shared-types
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+3. Build the package:
+   ```bash
+   npm run build
+   # or 
+   npm run dev // Watch mode
     ```
-2. Create a symbolic link:
-3. ```bash
+
+4. Create a symbolic link:
+   ```bash
    npm link
+
+   bun link
    ```
-4. Navigate to your other repository:
+
+5. Navigate to your other repository:
    ```bash
    cd /path/to/your/other/repo
    ```
-5. Link the shared types package:
-   ```bash
-   npm link adaptcv-shared-types
+
+6. Install the package:
+    ```bash
+    npm install @lordcrainer/adaptcv-shared-types
+
+    # or
+
+    bun add @lordcrainer/adaptcv-shared-types
    ```
-6. Now you can import the types in your other repository as if they were installed from npm:
-   ```typescript
-   import { IUsers, RoleType } from 'adaptcv-shared-types';
+
+7. Link the shared types package:
+   ```bash
+   npm link @lordcrainer/adaptcv-shared-types
+
+   bun link @lordcrainer/adaptcv-shared-types
    ```
 
 

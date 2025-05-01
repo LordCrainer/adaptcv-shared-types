@@ -21,9 +21,9 @@
     "url": "https://github.com/LordCrainer/adaptcv-shared-types.git"
   },
   "scripts": {
-    "pub": "npm run build && npm publish",
+    "dev": "tsc -p tsconfig.json --watch",
     "build": "tsc -p tsconfig.json",
-    "build:w": "tsc -p tsconfig.json --watch"
+    "pub": "npm run build && npm publish"
   },
   "keywords": [
     "types",
