@@ -76,8 +76,7 @@ export interface IAboutMe {
 }
 
 export interface ICV extends BaseEntity {
-  _id?: string
-  userId: string
+  id?: string
   name: string
   userProfile: IUserProfile
   skills: ISkill[]
