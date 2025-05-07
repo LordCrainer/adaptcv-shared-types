@@ -1,3 +1,17 @@
+## [1.9.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.0...v1.9.1) (2025-05-07)
+
+
+### Bug Fixes
+
+* **IUserProfile:** make profession and areaProfession optional ([d4d8ea8](https://github.com/LordCrainer/adaptcv-shared-types/commit/d4d8ea85b56f2b6ea76d5bfb24d552dc833cc0a9))
+
+## [1.9.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.0...v1.9.1) (2025-05-07)
+
+
+### Bug Fixes
+
+* **IUserProfile:** make profession and areaProfession optional ([d4d8ea8](https://github.com/LordCrainer/adaptcv-shared-types/commit/d4d8ea85b56f2b6ea76d5bfb24d552dc833cc0a9))
+
 # [1.9.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.8.1...v1.9.0) (2025-05-07)
 
 
