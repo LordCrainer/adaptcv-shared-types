@@ -19,13 +19,13 @@ export type Degree =
   | 'doctorate'
 
 export interface ISkill {
-  skill: string
+  skill?: string
   yearsOfExperience: yearsOfExperience | undefined
 }
 
 type Proficiency = 'beginner' | 'intermediate' | 'advanced' | 'native'
 export interface ILanguageItem {
-  name: string | undefined
+  name?: string
   proficiency: Proficiency
 }
 
