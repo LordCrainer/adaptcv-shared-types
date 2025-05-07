@@ -1,3 +1,17 @@
+## [1.8.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.8.0...v1.8.1) (2025-05-02)
+
+
+### Bug Fixes
+
+* **ICV:** rename userId to id for consistency in interface ([d524b4e](https://github.com/LordCrainer/adaptcv-shared-types/commit/d524b4e85cffc2a4d55895bb9d76ab5b53f2ef75))
+
+## [1.8.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.8.0...v1.8.1) (2025-05-02)
+
+
+### Bug Fixes
+
+* **ICV:** rename userId to id for consistency in interface ([d524b4e](https://github.com/LordCrainer/adaptcv-shared-types/commit/d524b4e85cffc2a4d55895bb9d76ab5b53f2ef75))
+
 # [1.8.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.7.0...v1.8.0) (2025-05-01)
 
 
