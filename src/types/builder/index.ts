@@ -86,3 +86,13 @@ export interface ICV extends BaseEntity {
   status: 'draft' | 'published'
   aboutMe: IAboutMe
 }
+
+export type Sections = keyof Pick<
+  ICV,
+  | 'userProfile'
+  | 'skills'
+  | 'languages'
+  | 'education'
+  | 'workExperience'
+  | 'aboutMe'
+>
