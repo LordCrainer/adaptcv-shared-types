@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.8.1...v1.9.0) (2025-05-07)
+
+
+### Features
+
+* **ICV:** add Sections type for key selection of ICV properties ([90a9eed](https://github.com/LordCrainer/adaptcv-shared-types/commit/90a9eedf987423a438c2f585561fd1330f80050a))
+
+# [1.9.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.8.1...v1.9.0) (2025-05-07)
+
+
+### Features
+
+* **ICV:** add Sections type for key selection of ICV properties ([90a9eed](https://github.com/LordCrainer/adaptcv-shared-types/commit/90a9eedf987423a438c2f585561fd1330f80050a))
+
 ## [1.8.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.8.0...v1.8.1) (2025-05-02)
 
 
