@@ -1,3 +1,17 @@
+# [1.10.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.3...v1.10.0) (2025-05-12)
+
+
+### Features
+
+* **roles:** simplify RoleType by removing unused roles ([48bf73a](https://github.com/LordCrainer/adaptcv-shared-types/commit/48bf73a5c26e5db7a6eaae489e414a4bf2660547))
+
+# [1.10.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.3...v1.10.0) (2025-05-12)
+
+
+### Features
+
+* **roles:** simplify RoleType by removing unused roles ([48bf73a](https://github.com/LordCrainer/adaptcv-shared-types/commit/48bf73a5c26e5db7a6eaae489e414a4bf2660547))
+
 ## [1.9.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.2...v1.9.3) (2025-05-12)
 
 
