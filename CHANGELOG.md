@@ -1,3 +1,17 @@
+## [1.9.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.1...v1.9.2) (2025-05-07)
+
+
+### Bug Fixes
+
+* **ISkill, ILanguageItem:** make skill and name optional ([1f2cae5](https://github.com/LordCrainer/adaptcv-shared-types/commit/1f2cae55ee4b95aafd0506218a69618a102327a0))
+
+## [1.9.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.1...v1.9.2) (2025-05-07)
+
+
+### Bug Fixes
+
+* **ISkill, ILanguageItem:** make skill and name optional ([1f2cae5](https://github.com/LordCrainer/adaptcv-shared-types/commit/1f2cae55ee4b95aafd0506218a69618a102327a0))
+
 ## [1.9.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.0...v1.9.1) (2025-05-07)
 
 
