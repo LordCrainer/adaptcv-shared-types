@@ -1,3 +1,3 @@
-export type RoleType = 'superAdmin' | 'admin' | 'manager' | 'user' | 'provider'
+export type RoleType = 'superAdmin' | 'user'
 
 export type RoleConfig = Record<RoleType, number>
