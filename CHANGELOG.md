@@ -1,3 +1,17 @@
+## [1.9.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.2...v1.9.3) (2025-05-12)
+
+
+### Bug Fixes
+
+* **SocialMedia:** make properties required and update IUserProfile to use Partial ([d603923](https://github.com/LordCrainer/adaptcv-shared-types/commit/d60392388d7e92d157f63a6cf97fa86dc72bebb6))
+
+## [1.9.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.2...v1.9.3) (2025-05-12)
+
+
+### Bug Fixes
+
+* **SocialMedia:** make properties required and update IUserProfile to use Partial ([d603923](https://github.com/LordCrainer/adaptcv-shared-types/commit/d60392388d7e92d157f63a6cf97fa86dc72bebb6))
+
 ## [1.9.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.1...v1.9.2) (2025-05-07)
 
 
