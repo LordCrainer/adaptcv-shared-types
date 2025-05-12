@@ -52,9 +52,9 @@ export interface IWorkExperience<T = any> {
 }
 
 export interface SocialMedia {
-  linkedin?: string
-  github?: string
-  website?: string
+  linkedin: string
+  github: string
+  website: string
 }
 export interface IUserProfile {
   name: string
@@ -66,7 +66,7 @@ export interface IUserProfile {
   country?: string
   city?: string
   image?: IFileImage
-  socialMedia?: SocialMedia
+  socialMedia?: Partial<SocialMedia>
 }
 
 export interface IAboutMe {
