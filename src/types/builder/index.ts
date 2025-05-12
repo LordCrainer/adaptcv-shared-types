@@ -76,7 +76,7 @@ export interface IAboutMe {
 }
 
 export interface Builder extends BaseEntity {
-  id?: string
+  _id?: string
   name: string
   userProfile: IUserProfile
   skills: ISkill[]
