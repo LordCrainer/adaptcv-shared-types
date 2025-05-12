@@ -75,7 +75,7 @@ export interface IAboutMe {
   slogan: string
 }
 
-export interface ICV extends BaseEntity {
+export interface Builder extends BaseEntity {
   id?: string
   name: string
   userProfile: IUserProfile
@@ -88,7 +88,7 @@ export interface ICV extends BaseEntity {
 }
 
 export type Sections = keyof Pick<
-  ICV,
+  Builder,
   | 'userProfile'
   | 'skills'
   | 'languages'
