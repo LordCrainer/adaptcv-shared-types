@@ -52,9 +52,9 @@ export interface IWorkExperience<T = any> {
 }
 
 export interface SocialMedia {
-  linkedin: string
-  github: string
-  website: string
+  linkedin?: string
+  github?: string
+  website?: string
 }
 export interface IUserProfile {
   name: string
@@ -71,8 +71,8 @@ export interface IUserProfile {
 
 export interface IAboutMe {
   summary: string
-  logo: IFileImage
-  slogan: string
+  logo?: IFileImage
+  slogan?: string
 }
 
 export interface Builder extends BaseEntity {
