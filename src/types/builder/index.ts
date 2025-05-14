@@ -78,13 +78,13 @@ export interface IAboutMe {
 export interface Builder extends BaseEntity {
   _id?: string
   name: string
-  userProfile: IUserProfile
-  skills: ISkill[]
-  languages: ILanguageItem[]
-  education: IEducationItem[]
-  workExperience: IWorkExperience[]
+  userProfile?: IUserProfile
+  skills?: ISkill[]
+  languages?: ILanguageItem[]
+  education?: IEducationItem[]
+  workExperience?: IWorkExperience[]
   status: 'draft' | 'published'
-  aboutMe: IAboutMe
+  aboutMe?: IAboutMe
 }
 
 export type Sections = keyof Pick<
