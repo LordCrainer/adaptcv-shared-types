@@ -1,3 +1,17 @@
+# [1.11.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.10.0...v1.11.0) (2025-05-14)
+
+
+### Features
+
+* **Builder:** make userProfile, skills, languages, education, workExperience, and aboutMe optional ([9c2d928](https://github.com/LordCrainer/adaptcv-shared-types/commit/9c2d928f5519d33d28d2c2448ab60682ea728e86))
+
+# [1.11.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.10.0...v1.11.0) (2025-05-14)
+
+
+### Features
+
+* **Builder:** make userProfile, skills, languages, education, workExperience, and aboutMe optional ([9c2d928](https://github.com/LordCrainer/adaptcv-shared-types/commit/9c2d928f5519d33d28d2c2448ab60682ea728e86))
+
 # [1.10.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.9.3...v1.10.0) (2025-05-12)
 
 
