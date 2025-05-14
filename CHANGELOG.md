@@ -1,3 +1,17 @@
+# [1.12.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.11.0...v1.12.0) (2025-05-14)
+
+
+### Features
+
+* **builder:** make social media links and about me fields optional ([de99c5a](https://github.com/LordCrainer/adaptcv-shared-types/commit/de99c5af7ab86c253012fd231547ac17f26f6114))
+
+# [1.12.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.11.0...v1.12.0) (2025-05-14)
+
+
+### Features
+
+* **builder:** make social media links and about me fields optional ([de99c5a](https://github.com/LordCrainer/adaptcv-shared-types/commit/de99c5af7ab86c253012fd231547ac17f26f6114))
+
 # [1.11.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.10.0...v1.11.0) (2025-05-14)
 
 
