@@ -1,3 +1,17 @@
+# [1.13.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.12.0...v1.13.0) (2025-05-16)
+
+
+### Features
+
+* **types:** rename Sections type to BuilderSections for clarity ([28a2206](https://github.com/LordCrainer/adaptcv-shared-types/commit/28a22069cc95304b5dd74b09d38d9fbe7ee05f69))
+
+# [1.13.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.12.0...v1.13.0) (2025-05-16)
+
+
+### Features
+
+* **types:** rename Sections type to BuilderSections for clarity ([28a2206](https://github.com/LordCrainer/adaptcv-shared-types/commit/28a22069cc95304b5dd74b09d38d9fbe7ee05f69))
+
 # [1.12.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.11.0...v1.12.0) (2025-05-14)
 
 
