@@ -1,6 +1,6 @@
-import { BaseEntity } from '../shared/base.entities'
+import { IBaseEntity } from '../shared/base.entities'
 
-export interface IUsers extends BaseEntity {
+export interface IUsers extends IBaseEntity {
   _id: string
   name: string
   email: string

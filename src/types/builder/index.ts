@@ -1,4 +1,4 @@
-import type { BaseEntity } from "src/shared/base.entities"
+import type { IBaseEntity } from "src/shared/base.entities"
 import type { AreasProfession } from "./constants"
 import type { IFileImage } from "src/shared/file-image"
 
@@ -77,7 +77,7 @@ export interface IAboutMe {
 
 export type BuilderStatus = 'draft' | 'published'
 
-export interface Builder extends BaseEntity {
+export interface IBuilder extends IBaseEntity {
   _id?: string
   name: string
   userProfile?: IUserProfile
@@ -90,7 +90,7 @@ export interface Builder extends BaseEntity {
 }
 
 export type BuilderSections = keyof Pick<
-  Builder,
+  IBuilder,
   | 'userProfile'
   | 'skills'
   | 'languages'

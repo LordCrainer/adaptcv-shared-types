@@ -1,4 +1,4 @@
-export interface BaseEntity {
+export interface IBaseEntity {
   createdAt?: Date
   createdBy?: Date
   updatedAt?: Date
