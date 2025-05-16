@@ -1,6 +1,6 @@
-import { BaseEntity } from "src/shared/base.entities"
-import { AreasProfession } from "./constants"
-import { IFileImage } from "src/shared/file-image"
+import type { BaseEntity } from "src/shared/base.entities"
+import type { AreasProfession } from "./constants"
+import type { IFileImage } from "src/shared/file-image"
 
 export type yearsOfExperience =
   | 'less1year'
@@ -75,6 +75,8 @@ export interface IAboutMe {
   slogan?: string
 }
 
+export type BuilderStatus = 'draft' | 'published'
+
 export interface Builder extends BaseEntity {
   _id?: string
   name: string
@@ -83,7 +85,7 @@ export interface Builder extends BaseEntity {
   languages?: ILanguageItem[]
   education?: IEducationItem[]
   workExperience?: IWorkExperience[]
-  status: 'draft' | 'published'
+  status: BuilderStatus
   aboutMe?: IAboutMe
 }
 
