@@ -89,7 +89,7 @@ export interface Builder extends BaseEntity {
   aboutMe?: IAboutMe
 }
 
-export type Sections = keyof Pick<
+export type BuilderSections = keyof Pick<
   Builder,
   | 'userProfile'
   | 'skills'
