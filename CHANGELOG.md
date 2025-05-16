@@ -1,3 +1,7 @@
+## [1.13.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.0...v1.13.1) (2025-05-16)
+
+## [1.13.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.0...v1.13.1) (2025-05-16)
+
 # [1.13.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.12.0...v1.13.0) (2025-05-16)
 
 
