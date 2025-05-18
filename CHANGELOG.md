@@ -1,3 +1,17 @@
+# [1.14.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.1...v1.14.0) (2025-05-18)
+
+
+### Features
+
+* **types:** add Pagination and ApiResponse interfaces for improved data handling ([0400d92](https://github.com/LordCrainer/adaptcv-shared-types/commit/0400d92753f0ec9208b2ee46b3a4937026a0d7b0))
+
+# [1.14.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.1...v1.14.0) (2025-05-18)
+
+
+### Features
+
+* **types:** add Pagination and ApiResponse interfaces for improved data handling ([0400d92](https://github.com/LordCrainer/adaptcv-shared-types/commit/0400d92753f0ec9208b2ee46b3a4937026a0d7b0))
+
 ## [1.13.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.0...v1.13.1) (2025-05-16)
 
 ## [1.13.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.0...v1.13.1) (2025-05-16)
