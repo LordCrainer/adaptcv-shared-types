@@ -66,7 +66,7 @@ export interface IUserProfile {
   city?: string
   image?: IFileImage
   phone: number
-  phoneCode: string
+  phoneCode: number
   socialMedia?: Partial<SocialMedia>
 }
 
