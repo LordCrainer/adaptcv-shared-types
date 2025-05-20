@@ -62,6 +62,7 @@ export interface IUserProfile {
   areaProfession?: AreasProfession
   email: string
   phone: string
+  phoneCode: string
   address: string
   country?: string
   city?: string
