@@ -1,3 +1,17 @@
+## [1.14.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.0...v1.14.1) (2025-05-20)
+
+
+### Bug Fixes
+
+* **types:** add missing phoneCode property to IUserProfile interface ([d543fac](https://github.com/LordCrainer/adaptcv-shared-types/commit/d543facdc0a313a29c4f9ec5f1b98f3aaf88376e))
+
+## [1.14.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.0...v1.14.1) (2025-05-20)
+
+
+### Bug Fixes
+
+* **types:** add missing phoneCode property to IUserProfile interface ([d543fac](https://github.com/LordCrainer/adaptcv-shared-types/commit/d543facdc0a313a29c4f9ec5f1b98f3aaf88376e))
+
 # [1.14.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.13.1...v1.14.0) (2025-05-18)
 
 
