@@ -1,3 +1,17 @@
+## [1.14.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.1...v1.14.2) (2025-05-20)
+
+
+### Bug Fixes
+
+* **types:** change phone property type from string to number in IUserProfile interface ([8cf3114](https://github.com/LordCrainer/adaptcv-shared-types/commit/8cf3114d30b3cf29a8a24dd33b5682697c09be67))
+
+## [1.14.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.1...v1.14.2) (2025-05-20)
+
+
+### Bug Fixes
+
+* **types:** change phone property type from string to number in IUserProfile interface ([8cf3114](https://github.com/LordCrainer/adaptcv-shared-types/commit/8cf3114d30b3cf29a8a24dd33b5682697c09be67))
+
 ## [1.14.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.0...v1.14.1) (2025-05-20)
 
 
