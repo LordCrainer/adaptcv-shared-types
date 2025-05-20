@@ -61,12 +61,12 @@ export interface IUserProfile {
   profession?: string
   areaProfession?: AreasProfession
   email: string
-  phone: string
-  phoneCode: string
   address: string
   country?: string
   city?: string
   image?: IFileImage
+  phone: string
+  phoneCode: string
   socialMedia?: Partial<SocialMedia>
 }
 
