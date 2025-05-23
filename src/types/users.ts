@@ -12,4 +12,5 @@ export interface IUsers extends IBaseEntity {
   timezone?: string
   isSuperAdmin?: boolean
   status: UserStatus
+  role: number
 }
