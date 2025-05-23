@@ -1,3 +1,17 @@
+# [1.17.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.16.0...v1.17.0) (2025-05-23)
+
+
+### Features
+
+* add authProvider field to IUsers interface ([e6d0c17](https://github.com/LordCrainer/adaptcv-shared-types/commit/e6d0c170e401d11a6e5d529e211850ab4a9487a6))
+
+# [1.17.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.16.0...v1.17.0) (2025-05-23)
+
+
+### Features
+
+* add authProvider field to IUsers interface ([e6d0c17](https://github.com/LordCrainer/adaptcv-shared-types/commit/e6d0c170e401d11a6e5d529e211850ab4a9487a6))
+
 # [1.16.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.15.0...v1.16.0) (2025-05-23)
 
 
