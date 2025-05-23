@@ -1,3 +1,17 @@
+## [1.14.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.3...v1.14.4) (2025-05-23)
+
+
+### Bug Fixes
+
+* **types:** update import paths to use alias for IBaseEntity and IFileImage ([7260471](https://github.com/LordCrainer/adaptcv-shared-types/commit/7260471565fd82a24b6b2b1177df492634b2543c))
+
+## [1.14.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.3...v1.14.4) (2025-05-23)
+
+
+### Bug Fixes
+
+* **types:** update import paths to use alias for IBaseEntity and IFileImage ([7260471](https://github.com/LordCrainer/adaptcv-shared-types/commit/7260471565fd82a24b6b2b1177df492634b2543c))
+
 ## [1.14.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.2...v1.14.3) (2025-05-20)
 
 ## [1.14.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.2...v1.14.3) (2025-05-20)
