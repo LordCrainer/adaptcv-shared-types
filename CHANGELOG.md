@@ -1,3 +1,17 @@
+## [1.14.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.5...v1.14.6) (2025-05-23)
+
+
+### Bug Fixes
+
+* **build:** correct build script to ensure proper execution of tsc-alias ([5652adb](https://github.com/LordCrainer/adaptcv-shared-types/commit/5652adb2938e23c9d118639182998430f740a782))
+
+## [1.14.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.5...v1.14.6) (2025-05-23)
+
+
+### Bug Fixes
+
+* **build:** correct build script to ensure proper execution of tsc-alias ([5652adb](https://github.com/LordCrainer/adaptcv-shared-types/commit/5652adb2938e23c9d118639182998430f740a782))
+
 ## [1.14.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.4...v1.14.5) (2025-05-23)
 
 
