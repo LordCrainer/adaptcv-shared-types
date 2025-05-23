@@ -1,3 +1,17 @@
+# [1.16.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.15.0...v1.16.0) (2025-05-23)
+
+
+### Features
+
+* add UserStatus type and include it in IUsers interface ([46e5f67](https://github.com/LordCrainer/adaptcv-shared-types/commit/46e5f67eaf8a7acfbfae2608d4cf8f48a175a44e))
+
+# [1.16.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.15.0...v1.16.0) (2025-05-23)
+
+
+### Features
+
+* add UserStatus type and include it in IUsers interface ([46e5f67](https://github.com/LordCrainer/adaptcv-shared-types/commit/46e5f67eaf8a7acfbfae2608d4cf8f48a175a44e))
+
 # [1.15.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.7...v1.15.0) (2025-05-23)
 
 
