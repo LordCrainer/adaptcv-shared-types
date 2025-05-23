@@ -12,7 +12,7 @@
     "declarationMap": true,
     "sourceMap": true,
     "paths": {
-      "@src/*": ["./*"],
+      "@src/*": ["*"],
     }
   },
   "include": [
