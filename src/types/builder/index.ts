@@ -1,6 +1,6 @@
-import type { IBaseEntity } from "src/shared/base.entities"
+import type { IBaseEntity } from "@src/shared/base.entities"
 import type { AreasProfession } from "./constants"
-import type { IFileImage } from "src/shared/file-image"
+import type { IFileImage } from "@src/shared/file-image"
 
 export type yearsOfExperience =
   | 'less1year'
