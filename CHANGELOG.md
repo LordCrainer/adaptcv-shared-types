@@ -1,3 +1,17 @@
+# [1.15.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.7...v1.15.0) (2025-05-23)
+
+
+### Features
+
+* update package version to 1.14.7 and remove unused dependencies ([2f2e6d1](https://github.com/LordCrainer/adaptcv-shared-types/commit/2f2e6d1a534cfd64a392589ad8844df2b0dab815))
+
+# [1.15.0](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.7...v1.15.0) (2025-05-23)
+
+
+### Features
+
+* update package version to 1.14.7 and remove unused dependencies ([2f2e6d1](https://github.com/LordCrainer/adaptcv-shared-types/commit/2f2e6d1a534cfd64a392589ad8844df2b0dab815))
+
 ## [1.14.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.6...v1.14.7) (2025-05-23)
 
 
