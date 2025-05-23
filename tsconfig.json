@@ -6,20 +6,23 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "outDir": "./dist",
-    "baseUrl": "./",
-    "rootDir": "./",
+    "baseUrl": "./src",
+    "rootDir": "./src",
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
     "paths": {
-      "@src/*": ["src/*"],
+      "@src/*": ["./*"],
     }
   },
   "include": [
-    "src/**/*"
+    "./src/**/*"
   ],
   "exclude": [
     "node_modules",
     "dist"
-  ]
+  ],
+  "tsc-alias": {
+    "resolveFullPaths": true,
+  }
 }
