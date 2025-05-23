@@ -1,3 +1,17 @@
+## [1.17.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.1...v1.17.2) (2025-05-23)
+
+
+### Bug Fixes
+
+* make role property optional in IUsers interface ([4452551](https://github.com/LordCrainer/adaptcv-shared-types/commit/44525515b794d41367be506e8b1290b087378ae2))
+
+## [1.17.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.1...v1.17.2) (2025-05-23)
+
+
+### Bug Fixes
+
+* make role property optional in IUsers interface ([4452551](https://github.com/LordCrainer/adaptcv-shared-types/commit/44525515b794d41367be506e8b1290b087378ae2))
+
 ## [1.17.1](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.0...v1.17.1) (2025-05-23)
 
 
