@@ -1,3 +1,17 @@
+## [1.14.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.4...v1.14.5) (2025-05-23)
+
+
+### Bug Fixes
+
+* **tsconfig:** update path alias to remove leading dot ([e010aff](https://github.com/LordCrainer/adaptcv-shared-types/commit/e010aff14cff5e602c19ebcd4ca02088bc2e0262))
+
+## [1.14.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.4...v1.14.5) (2025-05-23)
+
+
+### Bug Fixes
+
+* **tsconfig:** update path alias to remove leading dot ([e010aff](https://github.com/LordCrainer/adaptcv-shared-types/commit/e010aff14cff5e602c19ebcd4ca02088bc2e0262))
+
 ## [1.14.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.3...v1.14.4) (2025-05-23)
 
 
