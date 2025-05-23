@@ -1,3 +1,17 @@
+## [1.14.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.6...v1.14.7) (2025-05-23)
+
+
+### Bug Fixes
+
+* update import paths in builder types to use relative paths ([6bd0a96](https://github.com/LordCrainer/adaptcv-shared-types/commit/6bd0a963103ad0ca06cc476fa9ad4b972163939c))
+
+## [1.14.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.6...v1.14.7) (2025-05-23)
+
+
+### Bug Fixes
+
+* update import paths in builder types to use relative paths ([6bd0a96](https://github.com/LordCrainer/adaptcv-shared-types/commit/6bd0a963103ad0ca06cc476fa9ad4b972163939c))
+
 ## [1.14.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.14.5...v1.14.6) (2025-05-23)
 
 
