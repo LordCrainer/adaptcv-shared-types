@@ -1,3 +1,17 @@
+## [1.17.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.2...v1.17.3) (2025-05-24)
+
+
+### Bug Fixes
+
+* update LoginOutput and LoginParams interfaces to include refreshToken and change username to email ([5b0b159](https://github.com/LordCrainer/adaptcv-shared-types/commit/5b0b159bf1ca5276a70f5bc6e0c4d34fdad65e56))
+
+## [1.17.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.2...v1.17.3) (2025-05-24)
+
+
+### Bug Fixes
+
+* update LoginOutput and LoginParams interfaces to include refreshToken and change username to email ([5b0b159](https://github.com/LordCrainer/adaptcv-shared-types/commit/5b0b159bf1ca5276a70f5bc6e0c4d34fdad65e56))
+
 ## [1.17.2](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.1...v1.17.2) (2025-05-23)
 
 
