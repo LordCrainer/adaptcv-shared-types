@@ -7,9 +7,11 @@ export type RequestUserData = IUsers & {
 export interface LoginOutput {
   user: RequestUserData
   token: string
+  refreshToken: string
+  expiresIn?: number
 }
 
 export interface LoginParams {
-  username: string
+  email: string
   password: string
 }
