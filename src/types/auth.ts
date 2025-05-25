@@ -11,7 +11,7 @@ export interface LoginOutput {
   expiresIn?: number
 }
 
-export interface LoginParams {
+export interface LoginInput {
   email: string
   password: string
 }
