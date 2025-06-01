@@ -1,3 +1,17 @@
+## [1.17.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.3...v1.17.4) (2025-05-25)
+
+
+### Bug Fixes
+
+* rename LoginParams to LoginInput for consistency ([2c7a50d](https://github.com/LordCrainer/adaptcv-shared-types/commit/2c7a50dbc5ac607cd382fe089deb41ada680a890))
+
+## [1.17.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.3...v1.17.4) (2025-05-25)
+
+
+### Bug Fixes
+
+* rename LoginParams to LoginInput for consistency ([2c7a50d](https://github.com/LordCrainer/adaptcv-shared-types/commit/2c7a50dbc5ac607cd382fe089deb41ada680a890))
+
 ## [1.17.3](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.2...v1.17.3) (2025-05-24)
 
 
