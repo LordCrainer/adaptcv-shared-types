@@ -1,3 +1,17 @@
+## [1.17.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.4...v1.17.5) (2025-06-01)
+
+
+### Bug Fixes
+
+* rename LoginOutput to LoginResponse and adjust LoginInput to LoginRequest for clarity ([fab6225](https://github.com/LordCrainer/adaptcv-shared-types/commit/fab622565436a06afbddef6b0dcfdfd5640295a4))
+
+## [1.17.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.4...v1.17.5) (2025-06-01)
+
+
+### Bug Fixes
+
+* rename LoginOutput to LoginResponse and adjust LoginInput to LoginRequest for clarity ([fab6225](https://github.com/LordCrainer/adaptcv-shared-types/commit/fab622565436a06afbddef6b0dcfdfd5640295a4))
+
 ## [1.17.4](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.3...v1.17.4) (2025-05-25)
 
 
