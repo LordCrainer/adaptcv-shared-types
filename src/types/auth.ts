@@ -6,7 +6,7 @@ export type RequestUserData = IUsers & {
 
 export interface LoginResponse {
   user: RequestUserData
-  token: string
+  accessToken: string
   refreshToken: string
   expiresIn?: number
 }
