@@ -1,3 +1,17 @@
+## [1.17.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.6...v1.17.7) (2025-06-13)
+
+
+### Bug Fixes
+
+* add missing years of experience options for clarity ([36d78ad](https://github.com/LordCrainer/adaptcv-shared-types/commit/36d78ad255149e730091331da81837a40e129a75))
+
+## [1.17.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.6...v1.17.7) (2025-06-13)
+
+
+### Bug Fixes
+
+* add missing years of experience options for clarity ([36d78ad](https://github.com/LordCrainer/adaptcv-shared-types/commit/36d78ad255149e730091331da81837a40e129a75))
+
 ## [1.17.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.5...v1.17.6) (2025-06-05)
 
 
