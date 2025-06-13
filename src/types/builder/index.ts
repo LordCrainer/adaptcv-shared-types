@@ -81,6 +81,7 @@ export type BuilderStatus = 'draft' | 'published'
 export interface IBuilder extends IBaseEntity {
   _id?: string
   name: string
+  description?: string
   userProfile?: IUserProfile
   skills?: ISkill[]
   languages?: ILanguageItem[]
