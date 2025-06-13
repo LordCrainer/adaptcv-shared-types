@@ -1,3 +1,17 @@
+## [1.17.8](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.7...v1.17.8) (2025-06-13)
+
+
+### Bug Fixes
+
+* update years of experience options for consistency ([1eea7f3](https://github.com/LordCrainer/adaptcv-shared-types/commit/1eea7f3109a99f299102f9b0cc622d4bb94ea89f))
+
+## [1.17.8](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.7...v1.17.8) (2025-06-13)
+
+
+### Bug Fixes
+
+* update years of experience options for consistency ([1eea7f3](https://github.com/LordCrainer/adaptcv-shared-types/commit/1eea7f3109a99f299102f9b0cc622d4bb94ea89f))
+
 ## [1.17.7](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.6...v1.17.7) (2025-06-13)
 
 
