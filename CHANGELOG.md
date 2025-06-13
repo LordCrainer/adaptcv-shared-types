@@ -1,3 +1,17 @@
+## [1.17.9](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.8...v1.17.9) (2025-06-13)
+
+
+### Bug Fixes
+
+* add optional description field to IBuilder interface ([1d4322f](https://github.com/LordCrainer/adaptcv-shared-types/commit/1d4322f31274e29f9f2dc220fb11b4790e18e754))
+
+## [1.17.9](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.8...v1.17.9) (2025-06-13)
+
+
+### Bug Fixes
+
+* add optional description field to IBuilder interface ([1d4322f](https://github.com/LordCrainer/adaptcv-shared-types/commit/1d4322f31274e29f9f2dc220fb11b4790e18e754))
+
 ## [1.17.8](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.7...v1.17.8) (2025-06-13)
 
 
