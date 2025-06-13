@@ -1,3 +1,17 @@
+## [1.17.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.5...v1.17.6) (2025-06-05)
+
+
+### Bug Fixes
+
+* rename token to accessToken in LoginResponse for clarity ([21e3651](https://github.com/LordCrainer/adaptcv-shared-types/commit/21e3651e25349dfd1c89ec5d8fee70d95b61fdc6))
+
+## [1.17.6](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.5...v1.17.6) (2025-06-05)
+
+
+### Bug Fixes
+
+* rename token to accessToken in LoginResponse for clarity ([21e3651](https://github.com/LordCrainer/adaptcv-shared-types/commit/21e3651e25349dfd1c89ec5d8fee70d95b61fdc6))
+
 ## [1.17.5](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.4...v1.17.5) (2025-06-01)
 
 
