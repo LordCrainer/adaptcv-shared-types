@@ -1,3 +1,17 @@
+## [1.17.10](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.9...v1.17.10) (2025-06-16)
+
+
+### Bug Fixes
+
+* change createdBy type from Date to string in IBaseEntity interface ([e9cd337](https://github.com/LordCrainer/adaptcv-shared-types/commit/e9cd337ef32cd8f4fd43c9f99931c575fdf5fb20))
+
+## [1.17.10](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.9...v1.17.10) (2025-06-16)
+
+
+### Bug Fixes
+
+* change createdBy type from Date to string in IBaseEntity interface ([e9cd337](https://github.com/LordCrainer/adaptcv-shared-types/commit/e9cd337ef32cd8f4fd43c9f99931c575fdf5fb20))
+
 ## [1.17.9](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.8...v1.17.9) (2025-06-13)
 
 
