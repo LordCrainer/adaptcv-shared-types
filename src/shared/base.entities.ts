@@ -1,6 +1,6 @@
 export interface IBaseEntity {
   createdAt?: Date
-  createdBy?: Date
+  createdBy?: string
   updatedAt?: Date
   deletedAt?: Date | null
 }
