@@ -1,3 +1,17 @@
+## [1.17.11](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.10...v1.17.11) (2025-06-20)
+
+
+### Bug Fixes
+
+* make currentRole required in RequestUserData type ([ec5608d](https://github.com/LordCrainer/adaptcv-shared-types/commit/ec5608d40a59608cfda5e869cc0929c065acbaa1))
+
+## [1.17.11](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.10...v1.17.11) (2025-06-20)
+
+
+### Bug Fixes
+
+* make currentRole required in RequestUserData type ([ec5608d](https://github.com/LordCrainer/adaptcv-shared-types/commit/ec5608d40a59608cfda5e869cc0929c065acbaa1))
+
 ## [1.17.10](https://github.com/LordCrainer/adaptcv-shared-types/compare/v1.17.9...v1.17.10) (2025-06-16)
 
 
