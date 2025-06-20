@@ -1,7 +1,7 @@
 import { IUsers } from './users'
 
 export type RequestUserData = IUsers & {
-  currentRole?: number
+  currentRole: number
 }
 
 export interface LoginResponse {
